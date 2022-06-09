@@ -21,7 +21,7 @@ Características:
 ### Clonar el REPO:
 
 ```
-$ git clone https://github.com/skills20/delilah-resto.git
+$ git clone 	https://github.com/johnvamp/delilah-resto
 ```
 
 o puede simplemente descargarlo de Github
